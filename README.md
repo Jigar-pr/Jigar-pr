@@ -4,11 +4,21 @@
 
 <h1 align="center">Hi 👋, I'm Jigar Prajapati!</h1>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jigar-pr&show_icons=true&locale=en&theme=dark&count_private=true&hide_border=true" alt="Jigar-pr's GitHub Stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jigar-pr&locale=en&theme=dark&layout=compact&hide_border=true" alt="Top Languages" /></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=Jigar-pr&theme=dark&hide_border=true" alt="GitHub Streak Stats" /></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jigar-pr&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://twitter.com/jigs_at_strog" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/twitter/follow/jigs_at_strog?logo=x&style=social" alt="Follow @jigs_at_strog on Twitter" /></a>   <a href="https://github.com/sponsors/Jigar-pr" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @Jigar-pr" /></a>
+</p>
+
 <h3 align="center">https://www.linkedin.com/in/jigar-prajapati-45b33a230/</h3>
 
 <h3 align="left">More About Me:</h3>
 
-- 🌱 I’m currently learning: **I'm currently learning React.js**
+- 🌱 I’m currently learning: **React.js**
 - 🔭 I’m currently working on: **Botspot Infoware Pvt Ltd**
 - 💬 Ask me about: **Odoo Development**
 - 📫 How to reach me: [prajapatijigar078@gmail.com](mailto:prajapatijigar078@gmail.com)
@@ -49,16 +59,4 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
-<h4 align="left">Other Skills:</h4>
-<p>Odoo, Flutter</p>
 </div>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jigar-pr&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="Jigar-pr's GitHub Stats" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jigar-pr&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=Jigar-pr&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jigar-pr&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
